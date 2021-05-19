@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062141775907",
+    "project_id": "phanvonhathoang-auth",
+    "storage_bucket": "phanvonhathoang-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062141775907:android:064df78d06898d1bbda196",
+        "android_client_info": {
+          "package_name": "com.example.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062141775907-jtdm2k34tvpkomdd46qe3kjs3h2hij5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBeLpT-YQjkelrNAk0nkE6WbvxY0kdeTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062141775907-jtdm2k34tvpkomdd46qe3kjs3h2hij5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
